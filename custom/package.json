@@ -1,0 +1,15 @@
+{
+  "name": "ibmt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "scripts": {
+    "start": "rimraf output/* && node init.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "rimraf": "^2.6.2"
+  }
+}
