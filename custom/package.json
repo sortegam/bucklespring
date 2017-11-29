@@ -4,7 +4,7 @@
   "description": "",
   "main": "init.js",
   "scripts": {
-    "start": "rimraf output/* && node init.js"
+    "start": "rimraf output/* tmp && node init.js"
   },
   "author": "",
   "license": "ISC",
